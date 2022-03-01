@@ -25,6 +25,12 @@ ul {
     padding-right: 20px;
     color: #ffffff;
 }
+.button_1:hover{
+    background: #F05202;
+    cursor: pointer;
+    color: antiquewhite;
+
+}
 
 /* Header **/
 header {
